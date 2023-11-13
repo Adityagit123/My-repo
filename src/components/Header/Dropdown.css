@@ -1,0 +1,7 @@
+.dropdown-list li a {
+  color: black;
+}
+
+.dropdown-list li a:hover {
+  color: #17bf9e;
+}

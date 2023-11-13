@@ -1,0 +1,146 @@
+/* Container */
+.Container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  /* Row */
+  .Row {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  /* Col */
+  .Col {
+    flex: 1 1 auto;
+    padding: 0 15px;
+  }
+  
+  /* Image */
+  /* .Col img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+  } */
+
+  .Col img {
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Hero Content */
+  .hero_content {
+    margin-top: 60px;
+  }
+  
+  /* Hero Content Title */
+  .hero_content h1 {
+    font-size: 36px;
+    font-weight: 700;
+    color: #17bf9e;;
+    margin-bottom: 0;
+  }
+  
+  /* Hero Content Subtitle */
+  .hero_content h3 {
+    font-size: 24px;
+    font-weight: 500;
+    color: #666;
+    margin-bottom: 0;
+  }
+  
+  /* Hero Content Description */
+  .hero_content p {
+    font-size: 16px;
+    font-weight: 400;
+    color: #999;
+    margin-bottom: 0;
+    margin-top: 20px;
+  }
+  
+  /* Hero Content Search */
+  .hero_content input {
+    width: 100%;
+    padding: 10px 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .hero_content button {
+    width: 100%;
+    padding: 10px 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #000;
+    color: #fff;
+    cursor: pointer;
+  }
+
+  .hero-section {
+    border-radius: 5px;
+    border-color: #17bf9e;
+    transition: all 0.2s ease-in-out;
+  }
+  
+  .hero-section:hover {
+    background-color: #17bf9e;
+  }
+  
+  .hero-section img {
+    transition: all 0.2s ease-in-out;
+  }
+  
+  .hero-section img:hover {
+    transform: scale(1.1);
+  }
+  
+  .hero-section .col {
+    transition: all 0.2s ease-in-out;
+  }
+  
+  .hero-section .col:hover {
+    transform: scale(1.1);
+  }
+  
+  
+  
+  /* Responsive */
+  @media (max-width: 768px) {
+    .Col {
+      flex: 1 0 100%;
+    }
+  }
+  
+  /* Custom Styles */
+  .hero_content h2:first-child {
+    font-size: 48px;
+    font-weight: 900;
+  }
+  
+  .hero_content h3:last-child {
+    font-size: 20px;
+  }
+  
+  .hero_content input {
+    margin-bottom: 10px;
+  }
+  
+  .hero_content button {
+    margin-top: 10px;
+  }
+  
+    .search input{
+    border: none;
+    outline: none;
+    padding: 7px 10%;
+    }
+    .search{
+    width: 60%;
+    border: 1px solid #17bf9d94;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 50px;
+    margin-top: 20px;
+    }

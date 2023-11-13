@@ -1,0 +1,156 @@
+.section-questions {
+  width: 700px;
+  padding: 1rem;
+  border-radius: 5px;
+  border-color: #17bf9e;
+  background-color: #f5f5f5;
+
+  /* Center the two column boxes */
+  transition: all 0.2s ease-in-out;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  /* Make the container have equal margin on the left and right sides */
+  margin: 0 auto;
+
+  /* Make the container have equal margin on the top and bottom sides */
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.question-list {
+  padding: 20px;
+}
+
+
+.section-questions:hover {
+  background-color: #e7f9f5;
+  transform: scale(1.1);
+}
+
+
+  
+  .question-list p {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  .question-list ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .question-list li {
+    padding: 10px 0;
+    display: flex;
+    align-items: center;
+  }
+  
+  .question-list li img {
+    margin-right: 10px;
+  }
+  
+  .lightbulb {
+    width: 26px;
+    height: 26px;
+  }
+
+  .question {
+    display: flex;
+    align-items: center;
+  }
+  
+  .question img {
+    width: 20px;
+    height: 20px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+  }
+
+  .question1 {
+    display: flex;
+    align-items: center;
+  }
+  
+  .question1 img {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+  };
+  .section-questions {
+    width: fit-content;
+  }
+
+  .question-row{
+    display : flex ;
+    margin-left: 2rem;
+    margin-right: 2rem;
+  }
+  
+  .section-questions {
+    width: fit-content;
+    padding: 1rem;
+    /* Add padding between the sections */
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+  }
+  
+  .row {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+
+  .title{
+    font-size: 20px;
+  }
+  
+  
+  @media screen and (max-width: 768px) {
+    .question-list {
+      padding: 10px;
+    }
+  
+    .question-list1 h3 {
+      font-size: 25px;
+    }
+
+    .question-list2 h3 {
+      font-size: 25px;
+    }
+  
+    .question-list1 p {
+      font-size: 14px;
+    }
+  
+    .question-list li {
+      padding: 5px 0;
+    }
+
+    .question {
+        display: flex;
+        align-items: center;
+      }
+      
+      .question img {
+        width: 16px;
+        height: 16px;
+        margin-right: 10px;
+      }
+
+      .question1 {
+        display: flex;
+        align-items: center;
+      }
+      
+      .question1 img {
+        width: 16px;
+        height: 16px;
+        margin-right: 10px;
+      }
+      
+  }
+  
+  

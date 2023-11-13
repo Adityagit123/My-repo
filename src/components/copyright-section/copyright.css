@@ -1,0 +1,15 @@
+.cont {
+  width: 100%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin: 0;
+    background-color: black;
+    color: white;
+  }
+  
+  .copyright1 {
+    font-size: 14px;
+    text-align: center;
+    margin-top: 10px;
+  }
+  
