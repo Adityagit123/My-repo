@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Adityagit123/Binge-English/static/css/main.07cbfd51.css",
+    "main.js": "/Adityagit123/Binge-English/static/js/main.e8684abe.js",
+    "static/media/remixicon.svg?t=1690730386070": "/Adityagit123/Binge-English/static/media/remixicon.db77551b8efc76571c4f.svg",
+    "static/media/remixicon.eot?t=1690730386070": "/Adityagit123/Binge-English/static/media/remixicon.53ec05edb4b6864b45b1.eot",
+    "static/media/remixicon.ttf?t=1690730386070": "/Adityagit123/Binge-English/static/media/remixicon.4aa0fd158658e2a40e79.ttf",
+    "static/media/remixicon.woff?t=1690730386070": "/Adityagit123/Binge-English/static/media/remixicon.affd60ca37df38cfee4f.woff",
+    "static/media/remixicon.woff2?t=1690730386070": "/Adityagit123/Binge-English/static/media/remixicon.821a773710130bcf4674.woff2",
+    "static/media/logo.png": "/Adityagit123/Binge-English/static/media/logo.fc93d004a983bbca76df.png",
+    "static/media/image1.jpg": "/Adityagit123/Binge-English/static/media/image1.1c3f7c1ae6f49d9d52b3.jpg",
+    "static/media/question-mark.png": "/Adityagit123/Binge-English/static/media/question-mark.c8323ba71ddd89521e51.png",
+    "static/media/lightbulb.png": "/Adityagit123/Binge-English/static/media/lightbulb.62245cbacda5ee209c03.png",
+    "static/media/slick.svg": "/Adityagit123/Binge-English/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Adityagit123/Binge-English/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Adityagit123/Binge-English/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Adityagit123/Binge-English/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Adityagit123/Binge-English/index.html",
+    "main.07cbfd51.css.map": "/Adityagit123/Binge-English/static/css/main.07cbfd51.css.map",
+    "main.e8684abe.js.map": "/Adityagit123/Binge-English/static/js/main.e8684abe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07cbfd51.css",
+    "static/js/main.e8684abe.js"
+  ]
+}
